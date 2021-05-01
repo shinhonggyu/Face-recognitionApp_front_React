@@ -6,6 +6,7 @@ class Register extends React.Component {
     this.emailRef = React.createRef();
     this.passwordRef = React.createRef();
     this.nameRef = React.createRef();
+
     this.state = {
       email: '',
       password: '',

@@ -1,12 +1,12 @@
 import React from 'react';
 import Particles from 'react-particles-js';
 import './App.css';
+
 import ImageLinkForm from './components/ImageLinkForm/ImageLinkForm';
 import Logo from './components/Logo/Logo';
 import Navigation from './components/Navigation/Navigation';
 import Rank from './components/Rank/Rank';
 import FaceRecognition from './components/FaceRecognition/FaceRecognition';
-
 import Signin from './components/Signin/Signin';
 import Register from './components/Register/Register';
 
