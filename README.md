@@ -1,14 +1,14 @@
 heroku 배포 : https://smart-brain-front-shin.herokuapp.com/
 
-React.js
+프론트 React.js
 
-machine learning API
+machine learning 얼굴인식 API
 
-Node.js , Express
+서버 Node.js , Express
 
 RESTful API
 
-PostgreSQL
+데이터베이스 PostgreSQL
 
 SSH Command - Encryption - SSH Keys
 
