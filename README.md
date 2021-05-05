@@ -10,13 +10,13 @@ RESTful API
 
 데이터베이스 PostgreSQL
 
-SSH Command - Encryption - SSH Keys
+SSH Keys
 
-Network Optimizations
+Network 최적화 (Minimize Text and Image , Minimize Delivery)
 
-Front End Optimizations (critical render path / pwa / optimizing code / code splitting)
+Front End 최적화 (critical render path / pwa / optimizing code / code splitting)
 
-Back End Optimizations (content delivery networks / scaling databases / compressing our responses / caching / load balancing)
+Back End 최적화 (CDNs / caching / load balancing / DB Scaling / GZIP)
 
 webpack
 
