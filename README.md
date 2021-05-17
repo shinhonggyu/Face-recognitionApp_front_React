@@ -14,7 +14,7 @@ SSH Keys
 
 Network 최적화 (Minimize Text and Image , Minimize Delivery)
 
-Front End 최적화 (critical render path / pwa / optimizing code / code splitting)
+Front End 최적화 (critical render path / pwa / optimizing code(React Performance) / code splitting)
 
 Back End 최적화 (CDNs / caching / load balancing / DB Scaling / GZIP)
 
